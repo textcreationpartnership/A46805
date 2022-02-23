@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Jenkins's dying thoughts who departed this life on Monday the 19th of this instant January, in the Prison of Newgate.</title>
+            <author>Jenkyn, William, 1613-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46805</idno>
+            <idno type="STC">Wing J637</idno>
+            <idno type="STC">ESTC R224137</idno>
+            <idno type="EEBO-CITATION">99834574</idno>
+            <idno type="PROQUEST">99834574</idno>
+            <idno type="VID">39076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39076)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1813:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Jenkins's dying thoughts who departed this life on Monday the 19th of this instant January, in the Prison of Newgate.</title>
+                  <author>Jenkyn, William, 1613-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Goldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Last words --  Early works to 1800.</term>
+               <term>Dying declarations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:39076:1" rendition="simple:additions"/>
+            <head>Mr. Jenkins's Dying Thoughts, Who departed this Life on <hi>Monday</hi> the 19th of this Inſtant <hi>January,</hi> in the Priſon of <hi>Newgate.</hi>
+            </head>
+            <p>Miniſters, in regard they undertake a Publick Imployment for Chriſt, muſt receive a Call from him that ſo they may perform their Work to their own Comfort, and the Benefit of others. For altho it be a great ſhame if thoſe, who are the Miniſters and Prophets of the Lord, are not of the num<g ref="char:EOLhyphen"/>ber of his People; yet it is a groſs Errour to think that all the Lord's People are Miniſters and Prophets: Their being the Lord's People, makes them fit to hear, but not to preach; fit Sheep, but not fit Shepherds. For, although they have the fitneſs of Gifts, yet they are not fit to teach, unleſs they have a ſufficient Call by way of Of<g ref="char:EOLhyphen"/>fice and Miniſtry; and when they have that, he will not fail to pre<g ref="char:EOLhyphen"/>ſerve and defend them in the Diſcharge of their Miniſterial Work. For Safety evermore accompanies Duty; and if the mercy of God be over all his Works, then it is in a more peculiar manner over all his Workers. Men are never ſo much in Danger, as when they leave his Work, and their Enemies, when they do them the greateſt Hurt, remove them far above the reach of Hurt; So that altho the Ser<g ref="char:EOLhyphen"/>vants of Chriſt be ſick, perſecuted, ſcorned and impriſoned, yet they ſhall never be unſafe: For tho they may loſe their Heads, not one Hair of their Heads ſhall periſh, and God will reward them with ſuch a recompence, as will infinitely weigh down all their Work, and all their Woes. For altho he ſuffer them to be expoſed in this life to many Difficulties and Dangers, yet he will not fail to bring them ſafe to Eternal Happineſs, where they ſhall neither offend, nor be offended, and where there ſhall be neither ſin in their Souls, nor a ſinner in their Society; When Satan ſhall have no longer any power to ſolicit, nor they any Inclination to ſin, but all their ſuf<g ref="char:EOLhyphen"/>ferings ſhall be turned into Triumphs. Oh bleſſed Condition! To have reſt on every ſide, fulneſs of Grace, and Perfection of Peace! To be for ever freed from all Tears, and be ſafely lodg'd in the Boſom, and lock'd up in the Imbraces, of God to Eternity! To be in our Haven, our Centure, ous Fathers Houſe! Oh, my Soul, 'tis a Hea<g ref="char:EOLhyphen"/>ven to hope it! What will it then be to have it!</p>
+            <p>Great is the heinouſneſs of ſin, ſince it can provoke a God of much Mercy to expreſs much ſeverity. That drop of Gall muſt needs be bitter that can imbitter a whole Sea of honey, how offenſive muſt ſin then be that can provoke a God, to whoſe Ocean of pity the Sea is but a drop! God doth not Afflict us willingly: He gives Honey naturally, but ſtings only when he is provoked by us. So that every Sufferer Coines his own Calamities, &amp; there is no Arrow of Judgment falls down upon us, but what was firſt (in ſinning) ſhot upwards by us; no ſhower of miſeries ſent down upon us, but what was Firſt cauſed by the aſcent of the vapours of our ſin; Nor any Print of Ca<g ref="char:EOLhyphen"/>lamity made on us, but ſin is the Print that makes it. What a folly is it then for us in our ſuffering to be impatient againſt God, and yet patient with our ſin, or to be angry with the Medicine, and yet in love with the diſeaſe. Let us juſtifie God therefore in all our ſuffer<g ref="char:EOLhyphen"/>ings, and condemn our ſelves.</p>
+            <p>It ſhould be the Chriſtians chiefeſt care to obtain from God the choiceſt mercies. Worldly men are indeed eaſily put off with the meaneſt, becauſe their Inquiry is only who will ſhew them any good. But O Chriſtian! let nothing pleaſe or ſatisfie thee, but the light of Gods Countenance and do thou ſo receive from God here, as that thou maiſt be received to God hereafter; deſire not Gifts, but Mercies from God, not Pibbles but Pearls, and always labour for that which God never beſtows but in Love. <hi>Luther,</hi> when he had a Rich preſent ſent him, profeſſed with a holy boldneſs to God, that ſuch things ſhould not ſerve his turn, and do thou always deſire the favour of God rather than outward Felicity. O deſire from God that thy Portion may not be in this Life, but that what thou injoyeſt here, may be a Pledge of better things hereafter.</p>
+            <p>Thoſe, who have the God of Mercy, for theirs, ſhould not be diſ<g ref="char:EOLhyphen"/>mayed with any Miſery, how ſevere and bitter ſoever it be. Bleſſed are thoſe Tears which ſo Merciful a Hand wipes off, and happy are thoſe Twigs that are guided by ſo indulgent a Father, whoſe ſeve<g ref="char:EOLhyphen"/>reſt ways are Mercy and Truth, to thoſe that are in Covenant with him. If he ſmile 'tis in Mercy, and if he ſmite 'tis in Mercy. He wounds not to kill, but to cure us, and the wounds of Mercy are better than the imbraces of Anger. Wrath in Proſperity is dread<g ref="char:EOLhyphen"/>ful, but Mercy makes the deepeſt Adverſity comfortable: For God never afflicts us for his own pleaſure, but our profit, and he will never take away his loving kindneſs from us. Mercy makes the Sufferings of Gods People to be but notions. It would do one good to be in troubles, and enjoy God in them, to be ſick, and lie in his boſom. For God gives his People a thouſand mercies in eve<g ref="char:EOLhyphen"/>ry trouble, and for every trouble, ſo that the holy Soul ſhall meet with no Wilderneſs but what ſhall end in <hi>Canaan</hi>; ſhall have no Wa<g ref="char:EOLhyphen"/>ter, but what ſhall be turned into Wine; nor Lions Carcaſs, but what ſhall become a Hive of Honey, and produce a ſwarm of mercies.</p>
+            <p>Its True, indeed, Afflictions are oftentimes their Lot and Portion in this World, and even the Holy Patriark, who had the Name of <hi>Iſrael</hi> as a Mark of a Particular Favour from God, had a life altoge<g ref="char:EOLhyphen"/>ther made up of Sorrows: Affliction was his Dayly Bread, and his conſtant Diet-drink; <hi>Eſau</hi> threatens to kill him; <hi>Laban,</hi> to whom he flies for refuge, is churliſh and deceitful; his eldeſt Son proved inceſtuous; His only Daughter was raviſhed; two of his ſons were Murthere rs; and his beſt beloved Child was given over for murthered: So that his day's, by his own Computation and Confeſſion, were very few and evil. And his Poſterity had Afflictions left them for a Legacy: <hi>Egypt,</hi> the Wilderneſs, <hi>Canaan, Babylon,</hi> &amp;c. were the Stages of <hi>Iſraels</hi> Tragedies. And the Spiritual <hi>Iſrael</hi> have been in all the Parts and Ages of the World a diſtreſſed and an afflicted Number, as appears by that Book of Martyrs, which we find epitomis'd in the Eleventh of the <hi>Hebrews.</hi> Affliction is always Gods Touchſtone, whereby he trys our Obedience; His Furnace to ſeparate between the Metal, and the Droſs, and purge away the Remainder of their Corruption.</p>
+            <p>The Conſideration therefore of Chriſts coming to Judgment may be to thoſe, who are ſufferers for his Name and Intereſt; Matter of great Comfort and Conſolation: Since they will be then cleared from all undue Imputations, and diſcharg'd from all their Scandals. <hi>Moſes,</hi> when he was charg'd with Ambition, and taking too much upon him, comforted himſelf with the thoughts of the Morrow (<hi>Num.</hi> 16.) To morrow (ſaith he) ſhall the Lord ſhew who are his; So when the Councils of the Heart ſhall be manifeſt, every one ſhall have praiſe of God; (1 <hi>Cor.</hi> 4. 4.) when a Chriſtian is call'd a diſſembler and Hypocrite, Schiſmatick, or the like, he may reply, at the Great day the Lord ſhall ſhew whether it be ſo or no. All Slanders and Defamations ſhall then for ever fall off from the Saints, as Drops of Water do from an Oiled Poſt, and the Weight of their Glory ſhall weigh down all their light diſgraces; In all the Wants and Loſſes of the Faithful for Chriſt in this Life, how great will be their Conſolation, ſince great ſhall be their Reward in Heaven? Many may be loſers for Chriſt, but none ſhall be loſers by Chriſt; For th Day of Judgment ſhall be the Day for the Reſti<g ref="char:EOLhyphen"/>tution of all their Comforts. God takes away nothing from us, but what he firſt gave to us, and what again he will reſtore: Nay he will reſtore a thouſand-fold more than ever we loſt for him. The Thoughts of this great Day ſhould relieve us againſt the Length of our Troubles, and the ſlowneſs of our Deliverance: For altho God asks Day for the rewarding of his Children, yet the greatneſs of the Recompence, which he will beſtow upon them on that great Day, ſhall infinitely more than countervail, and compenſate, for the Length of their waiting. In all Obſcurity and Contempt, how may the Saints rejoice to confider, that at the great Day, they ſhall ap<g ref="char:EOLhyphen"/>pear with Chriſt in Glory, and ſhine, as the Sun, in the Kingdom of their Father? Then every one ſhall have their due Place allotted to him, tho now there be nothing but Diſorder and confuſion. The Thoughts of this great Day may comfort the Saints in reſpect of their greateſt Diſtances: For altho in this World they are often far one from another, both as to Places, Opinions, and Affections, yet then they ſhall all meet and dwell together in the unity of the Faith of the Son of God. It may comfort them alſo againſt the Cruelties and Unkindneſſes of wicked Men: For altho it be the Lot of the Saints to live, and their Duty to be patient amongſt them, in this Vale of Miſery, yet they ſhall then be eternally freed from their Company, never to be troubled with ſin, or ſinners, or ſorrows more. For the Day of Judgment ſhall be a Day of Redemption (<hi>Eph.</hi> 4. 30.) Of Refreſhment, (<hi>Acts</hi> 3. 9.)</p>
+            <p>Finally the Thoughts of this Day ſhould ſupport us during our Abſence from Chriſt, ſince we ſhall then meet with our Redeemer, our Spouſe and our Head.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Goldwin.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
